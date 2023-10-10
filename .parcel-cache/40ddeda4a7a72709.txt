@@ -1,6 +1,5 @@
-6007
-34C:\Users\njeri\Desktop\Forkify\src133414168962232712 1
-43C:\Users\njeri\Desktop\Forkify\node_modules133414219341428761 1
+6008
+35C:\Users\njeri\Desktop\Forkify\.env133414352087238973 0
 70C:\Users\njeri\Desktop\Forkify\node_modules\nth-check\lib\parse.js.map133414213622274144 0
 87C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\package-manager\test\fixtures\empty133414213788145004 1
 81C:\Users\njeri\Desktop\Forkify\node_modules\type-fest\source\merge-exclusive.d.ts133414213637346503 0
@@ -63,6 +62,8 @@
 75C:\Users\njeri\Desktop\Forkify\node_modules\sass\types\util\promise_or.d.ts133414217936512266 0
 83C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\src\_iterable_to_array.mjs133414214267199591 0
 85C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133414214267739255 0
+34C:\Users\njeri\Desktop\Forkify\src133414168962232712 1
+43C:\Users\njeri\Desktop\Forkify\node_modules133414219341428761 1
 112C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\minifyStyles.js133414213767009170 0
 83C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\packager-raw\lib\RawPackager.js133414213249690450 0
 89C:\Users\njeri\Desktop\Forkify\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133414213493720941 0
@@ -1419,10 +1420,6 @@
 80C:\Users\njeri\Desktop\Forkify\node_modules\css-tree\lib\lexer\generic-urange.js133414214225739166 0
 68C:\Users\njeri\Desktop\Forkify\node_modules\semver\ranges\outside.js133414213708176640 0
 77C:\Users\njeri\Desktop\Forkify\node_modules\cosmiconfig\dist\loaders.d.ts.map133414213588824910 0
-111C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133414214237062992 0
-74C:\Users\njeri\Desktop\Forkify\node_modules\csso\node_modules\mdn-data\css133414215545368086 1
-75C:\Users\njeri\Desktop\Forkify\node_modules\sass\types\legacy\importer.d.ts133414217926418465 0
-72C:\Users\njeri\Desktop\Forkify\node_modules\css-tree\cjs\lexer\units.cjs133414214131688924 0
 61C:\Users\njeri\Desktop\Forkify\node_modules\path-type\license133414213295032540 0
 60C:\Users\njeri\Desktop\Forkify\node_modules\css-tree\LICENSE133414213218039947 0
 67C:\Users\njeri\Desktop\Forkify\node_modules\semver\ranges\subset.js133414213833447098 0
@@ -1556,6 +1553,10 @@
 120C:\Users\njeri\Desktop\Forkify\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-html.d.ts.map133414213686743089 0
 95C:\Users\njeri\Desktop\Forkify\node_modules\css-select\node_modules\domutils\lib\stringify.d.ts133414213924894502 0
 76C:\Users\njeri\Desktop\Forkify\node_modules\sass\types\legacy\exception.d.ts133414217923572137 0
+111C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133414214237062992 0
+74C:\Users\njeri\Desktop\Forkify\node_modules\csso\node_modules\mdn-data\css133414215545368086 1
+75C:\Users\njeri\Desktop\Forkify\node_modules\sass\types\legacy\importer.d.ts133414217926418465 0
+72C:\Users\njeri\Desktop\Forkify\node_modules\css-tree\cjs\lexer\units.cjs133414214131688924 0
 74C:\Users\njeri\Desktop\Forkify\node_modules\sass\types\legacy\options.d.ts133414217935622791 0
 78C:\Users\njeri\Desktop\Forkify\node_modules\sass\types\legacy\plugin_this.d.ts133414217936372331 0
 69C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\core\lib\types.js133414214202487071 0
@@ -3665,11 +3666,11 @@
 67C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\_\_type_of133414214247721590 1
 62C:\Users\njeri\Desktop\Forkify\node_modules\css-select\lib\esm133414214019590939 1
 82C:\Users\njeri\Desktop\Forkify\node_modules\chrome-trace-event\dist\trace-event.js133414213234509810 0
-132C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133414213655678737 0
-71C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\_\_await_value133414214207048891 1
-75C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\workers\src\cpuCount.js133414213533908745 0
 71C:\Users\njeri\Desktop\Forkify\node_modules\css-select\lib\general.d.ts133414213987664316 0
 96C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\_\_class_private_field_set\package.json133414214219333129 0
+132C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133414213655678737 0
+75C:\Users\njeri\Desktop\Forkify\node_modules\@parcel\workers\src\cpuCount.js133414213533908745 0
+71C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\_\_await_value133414214207048891 1
 75C:\Users\njeri\Desktop\Forkify\node_modules\css-select\lib\general.d.ts.map133414213830868710 0
 69C:\Users\njeri\Desktop\Forkify\node_modules\@swc\helpers\esm\index.js133414214194143331 0
 69C:\Users\njeri\Desktop\Forkify\node_modules\css-select\lib\general.js133414213541004346 0
