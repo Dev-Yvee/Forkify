@@ -1,0 +1,16 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Yvone Njeri",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "sass": "^1.69.1"
+  }
+}
